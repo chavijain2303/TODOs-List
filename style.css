@@ -1,0 +1,43 @@
+body {
+    background-color: #1e90ff; /* Blue background */
+    color: white; /* White text */
+    font-family: "Kalam", cursive;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .navbar-brand {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .container {
+    background-color: white; /* White background for the container */
+    color: black; /* Black text inside the container */
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  .table {
+    background-color: white; /* White background for the table */
+    color: black; /* Black text for the table */
+  }
+  
+  .btn-primary {
+    background-color: #1e90ff; /* Blue buttons */
+    border: none;
+    font-family: inherit; /* Reset font family */
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  form label {
+    color: black;
+  }
+  
+  textarea, input {
+    background-color: white;
+  }
+  
